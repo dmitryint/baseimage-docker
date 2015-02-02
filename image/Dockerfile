@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM intersoftlab/ubuntu:14.04-i386
 MAINTAINER Phusion <info@phusion.nl>
 
 ENV HOME /root
